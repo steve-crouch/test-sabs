@@ -1,0 +1,3 @@
+baseurl: "/blog"
+production_url: http://steve-crouch.github.io/blog
+BASE_PATH: http://steve-crouch.github.com/blog
